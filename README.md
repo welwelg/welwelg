@@ -6,10 +6,10 @@
 
 ### 🚀 About Me  
 - 🔭 Currently building **Fullstack applications (Laravel 12 + React + Inertia.js + ShadCN UI)**  
-- 🌱 Expanding my knowledge in **React, Node.js, and MongoDB**  
+- 🌱 Expanding my knowledge in **React, Node.js, PosgrestSQL and MongoDB**  
 - 👯 Open to collaborate on **open-source projects & modern web applications**  
-- 🤝 Looking for opportunities in **Fullstack Development & Cloud Deployment**  
-- 📫 Reach me at: **welwelgallardo13@gmail.com**  
+- 🤝 Looking for opportunities in **Fullstack Development**  
+- 📫 Reach me at: **welwelgallardo.business@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I enjoy creating apps that solve **real-world community problems in the Philippines 🇵🇭**  
 
@@ -29,7 +29,7 @@
 
 
 ### 🌐 Connect With Me  
-- 📧 Email: [welwelgallardo13@gmail.com](mailto:welwelgallardo13@gmail.com)  
+- 📧 Email: [welwelgallardo.business@gmail.com](mailto:welwelgallardo.business@gmail.com)  
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rogelio-gallardo)  
 - 🌍 Portfolio: [yourwebsite.com](https://welwelgallardoportfolio.netlify.app)  
 
