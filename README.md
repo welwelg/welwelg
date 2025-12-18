@@ -29,9 +29,9 @@
 
 
 ### 🌐 Connect With Me  
-- 📧 Email: [welwelgallardo.business@gmail.com](mailto:welwelgallardo.business@gmail.com)  
-- 💼 LinkedIn:(https://www.linkedin.com/in/rogelio-gallardo)  
-- 🌍 Portfolio:(https://welwelgallardoportfolio.netlify.app)  
+- 📧 Email: welwelgallardo.business@gmail.com)
+- 💼 LinkedIn:https://www.linkedin.com/in/rogelio-gallardo
+- 🌍 Portfolio:https://gallardoportfolio.vercel.app/ & https://welwelgallardoportfolio.netlify.app  
 
 ---
 
